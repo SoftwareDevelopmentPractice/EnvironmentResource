@@ -1,0 +1,12 @@
+AbstractTextEditor.Color.Background.SystemDefault=false
+AbstractTextEditor.Color.SelectionBackground.SystemDefault=false
+AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
+eclipse.preferences.version=1
+hyperlinkColor=64,0,128
+hyperlinkColor.SystemDefault=false
+overviewRuler_migration=migrated_3.1
+predarkestdark.AbstractTextEditor.Color.Foreground.SystemDefault=false
+predarkestdark.AbstractTextEditor.Color.SelectionBackground.SystemDefault=false
+predarkestdark.AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
+spacesForTabs=true
+spellingEnabled=false

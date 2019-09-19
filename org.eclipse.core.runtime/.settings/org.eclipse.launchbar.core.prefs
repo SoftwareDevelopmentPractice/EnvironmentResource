@@ -1,0 +1,16 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:1.exe,org.eclipse.launchbar.core.descriptorType.default\:Cycles (1),org.eclipse.launchbar.core.descriptorType.default\:Cycles,org.eclipse.launchbar.core.descriptorType.default\:SystemProgrammingWeek02.exe,org.eclipse.launchbar.core.descriptorType.default\:Practice9,org.eclipse.launchbar.core.descriptorType.default\:Practice10,org.eclipse.launchbar.core.descriptorType.default\:SystemProgramming.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:1.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:1.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Cycles\ (1)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Cycles\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Cycles/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Cycles/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Practice10/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Practice10/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Practice9/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:SystemProgramming.exe/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:SystemProgrammingWeek02.exe/activeLaunchMode=debug
